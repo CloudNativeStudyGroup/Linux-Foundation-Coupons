@@ -6,7 +6,7 @@ Are you looking to advance your career with Linux Foundation certifications or t
 
 ### [Up to 40% OFF] Linux Foundation Exclusive Discount
 
-As part of our partnership with the Linux Foundation, you can get 30% off **ANY** Linux Foundation certification or training.
+Follow these steps to get 30% off **ANY** Linux Foundation certification or training.
 
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
