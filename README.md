@@ -4,7 +4,7 @@
 Are you looking to advance your career with Linux Foundation certifications or training? You're in the right place!
 
 
-### [Up to 40% OFF] Linux Foundation Exclusive Discount
+### [30% OFF] Linux Foundation Exclusive Discount
 
 Follow these steps to get 30% off **ANY** Linux Foundation certification or training.
 
@@ -16,7 +16,7 @@ Follow these steps to get 30% off **ANY** Linux Foundation certification or trai
 ![Alt text](images/with-coupon-v2.png?raw=true "KUBEFLEX30 Coupon")
 
 ---
-### [Up to 40% OFF]  Direct links to certifications and bundles
+### [30% OFF]  Direct links to certifications and bundles
 
 Use the coupon **KUBEFLEX30** at checkout
 
@@ -42,14 +42,27 @@ Use the coupon **KUBEFLEX30** at checkout
 
 ---
 
-### [Up to 50% OFF] Linux Foundation Prime Day Sale [ Valid from 8th of October 2024 to 9th of October 2024  - Expired!
+### [40% OFF] Linux Foundation CyberSecurity Promotion [ Offer ends October 22, 2024 ]
 
-You can get 40% off any Linux Foundation certification or training!
+You can get 40% off on Cybersecurity courses and certifications. 
 
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
 - [x] Locate the certification/training you wish to purchase
-- [x] Apply the coupon OCTPRIME24 
+- [x] Apply the coupon OCT24CYBER 
+
+#### Valid Cybersecurity Bundles
+
+👉 [Kubernetes Security Essentials (LFS260) Course + Certified Kubernetes Security Specialist (CKS) Exam Bundle](https://shrsl.com/4po60)
+
+👉 [Kubernetes and Cloud Native Security Associate (KCSA) + Certified Kubernetes Security Specialist (CKS) Exam Bundle](https://shrsl.com/4po64)
+
+#### Valid Cybersecurity Certifications
+
+👉 [Kubernetes and Cloud Native Security Associate (KCSA)](https://shrsl.com/4po68)
+
+👉 [Certified Kubernetes Security Specialist (CKS)](https://shrsl.com/4po6a)
+
 
 ---
 
