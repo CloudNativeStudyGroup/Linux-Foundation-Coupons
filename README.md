@@ -1,8 +1,6 @@
 # Linux-Foundation-Coupons - As of October 2024
 🎉 Linux Foundation Training & Certification Discounts
 
-Are you looking to advance your career with Linux Foundation certifications or training? You're in the right place!
-
 
 ### [30% OFF] Linux Foundation Exclusive Discount
 
