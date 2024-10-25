@@ -50,8 +50,13 @@ You can get 35% off on any certification or training.
 - [x] Apply the coupon SPOOKY35 
 
 
-
-
 ---
+### Other Useful Repositories
+
+1. [KodeKloud coupons](https://github.com/CloudNativeStudyGroup/KodeKloud-Coupons)
+2. [Free courses where you can earn free Credly digital badges](https://github.com/CloudNativeStudyGroup/Free-Credly-Badges)
 
 
+## Join our community
+
+Join our [community](https://www.linkedin.com/groups/13092099/) to learn together!
