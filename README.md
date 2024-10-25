@@ -18,48 +18,38 @@ Follow these steps to get 30% off **ANY** Linux Foundation certification or trai
 
 Use the coupon **KUBEFLEX30** at checkout
 
-👉Certified Kubernetes Administrator (CKA): https://cka.kubeflex.io
+👉 [Certified Kubernetes Administrator (CKA)](https://cka.kubeflex.io)
 
-👉Certified Kubernetes Application Developer (CKAD): https://ckad.kubeflex.io
+👉 [Certified Kubernetes Application Developer (CKAD)](https://ckad.kubeflex.io)
 
-👉Prometheus Certified Associate (PCA): https://pca.kubeflex.io
+👉 [Prometheus Certified Associate (PCA)](https://pca.kubeflex.io)
 
-👉Certified Kubernetes Security Specialist (CKS): https://cks.kubeflex.io
+👉 [Certified Kubernetes Security Specialist (CKS)](https://cks.kubeflex.io)
 
-👉 Istio Certified Associate (ICA): https://ica.kubeflex.io
+👉 [Istio Certified Associate (ICA)](https://ica.kubeflex.io)
 
-👉 Kubernetes and Cloud Native Associate (KCNA): https://kcna.kubeflex.io
+👉 [Kubernetes and Cloud Native Associate (KCNA)](https://kcna.kubeflex.io)
 
-👉 Kubernetes and Cloud Native Security Associate (KCSA): https://kcsa.kubeflex.io
+👉 [Kubernetes and Cloud Native Security Associate (KCSA)](https://kcsa.kubeflex.io)
 
-👉 Certified Argo Project Associate (CAPA): https://capa.kubeflex.io
+👉 [Certified Argo Project Associate (CAPA)](https://capa.kubeflex.io)
 
-👉 Certified GitOps Associate (CGOA): https://cgoa.kubeflex.io
+👉 [Certified GitOps Associate (CGOA)](https://cgoa.kubeflex.io)
 
-👉 Cilium Certified Associate (CCA): https://cca.kubeflex.io
+👉 [Cilium Certified Associate (CCA)](https://cca.kubeflex.io)
 
 ---
 
-### [40% OFF] Linux Foundation CyberSecurity Promotion [ Offer ends October 22, 2024 ]
+### [35% OFF] Linux Foundation Halloween Promotion [ Offer ends October 28, 2024 ]
 
-You can get 40% off on Cybersecurity courses and certifications. 
+You can get 35% off on any certification or training. 
 
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
 - [x] Locate the certification/training you wish to purchase
-- [x] Apply the coupon OCT24CYBER 
+- [x] Apply the coupon SPOOKY35 
 
-#### Valid Cybersecurity Bundles
 
-👉 [Kubernetes Security Essentials (LFS260) Course + Certified Kubernetes Security Specialist (CKS) Exam Bundle](https://shrsl.com/4po60)
-
-👉 [Kubernetes and Cloud Native Security Associate (KCSA) + Certified Kubernetes Security Specialist (CKS) Exam Bundle](https://shrsl.com/4po64)
-
-#### Valid Cybersecurity Certifications
-
-👉 [Kubernetes and Cloud Native Security Associate (KCSA)](https://shrsl.com/4po68)
-
-👉 [Certified Kubernetes Security Specialist (CKS)](https://shrsl.com/4po6a)
 
 
 ---
