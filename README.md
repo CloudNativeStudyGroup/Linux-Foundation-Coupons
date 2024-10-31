@@ -40,14 +40,14 @@ Use the coupon **KUBEFLEX30** at checkout
 
 ---
 
-### [35% OFF] Linux Foundation Halloween Promotion [ Offer ends October 28, 2024 ]
+### [35% OFF] Linux Foundation Halloween Promotion
 
 You can get 35% off on any certification or training. 
 
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
 - [x] Locate the certification/training you wish to purchase
-- [x] Apply the coupon SPOOKY35 
+- [x] Apply the coupon SPOOKY35CT 
 
 
 ---
