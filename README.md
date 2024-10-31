@@ -54,6 +54,8 @@ You can get 35% off on any certification or training.
 ### Register Now for KubeCon + CloudNativeCon North America 2024! November 12-15 in Salt Lake City
 KubeCon + CloudNativeCon North America 2024 in Salt Lake City is coming up quickly! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
 
+Register [here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/).
+
 Type | Price | Discounted Price | Saving | Coupon 
 --- | --- | --- | --- |--- 
 Individual, All-Access | $1,079 | $899 | $180 | KUBEFLEX_AAI
