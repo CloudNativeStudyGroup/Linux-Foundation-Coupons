@@ -42,7 +42,7 @@ Use the coupon **KUBEFLEX30** at checkout
 
 ### [40% OFF] Countdown to KubeCon has begun! Up to 40% off at the LF! - OFFER ENDS NOV 12
 
-You can get 40% savings on Kubernetes certifications and the KUbestronaut bundle!
+You can get 40% savings on **Kubernetes** certifications and the **Kubestronaut** bundle!
 
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
