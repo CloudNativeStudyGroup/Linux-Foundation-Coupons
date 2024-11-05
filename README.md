@@ -40,14 +40,14 @@ Use the coupon **KUBEFLEX30** at checkout
 
 ---
 
-### [35% OFF] Linux Foundation Halloween Promotion
+### [40% OFF] Countdown to KubeCon has begun! Up to 40% off at the LF! - OFFER ENDS NOV 12
 
-You can get 35% off on any certification or training. 
+You can get 40% savings on Kubernetes certifications and the KUbestronaut bundle!
 
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
 - [x] Locate the certification/training you wish to purchase
-- [x] Apply the coupon SPOOKY35CT 
+- [x] Apply the coupon NOV24KUBE 
 
 
 ---
