@@ -40,28 +40,16 @@ Use the coupon **KUBEFLEX30** at checkout
 
 ---
 
-### [40% OFF] Countdown to KubeCon has begun! Up to 40% off at the LF! - OFFER ENDS NOV 12
+### [40% OFF] Celebrating KubeCon North America! - OFFER ENDS NOV 25
 
-You can get 40% savings on **Kubernetes** certifications and the **Kubestronaut** bundle!
+You can get 40% savings site-wide!!
 
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
 - [x] Locate the certification/training you wish to purchase
-- [x] Apply the coupon NOV24KUBE 
+- [x] Apply the coupon 40NOV24 
 
 
----
-### Register Now for KubeCon + CloudNativeCon North America 2024! November 12-15 in Salt Lake City
-KubeCon + CloudNativeCon North America 2024 in Salt Lake City is coming up quickly! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
-
-Register [here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/).
-
-Type | Price | Discounted Price | Saving | Coupon 
---- | --- | --- | --- |--- 
-Individual, All-Access | $1,079 | $899 | $180 | KUBEFLEX_AAI
-Corporate, All-Access | $1,979 | $1,549 | $430 | KUBEFLEX_AAC 
-Individual, KubeCon + CoudNativeCon | $700 | $600 | $100 | KUBEFLEX_I 
-Corporate, KubeCon + CloudNativeCon | $1,600 | $1,250 | $350 | KUBEFLEX_C 
 
 ---
 ### Other Useful Repositories
