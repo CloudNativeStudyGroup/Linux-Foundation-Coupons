@@ -4,11 +4,11 @@
 ---
 ### [60% OFF] Linux Foundation CYBER DEAL - OFFER ENDS DEC 11
 
-60% off on KUBESTRONAUT bundle
+60% off any certification bundle
 
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
-- [x] Locate the kubestronaut bundle using the certification catalog
+- [x] Locate the certification bundle using the certification catalog
 - [x] Apply the coupon CYBER24BUNDLE
 
 ---
