@@ -1,7 +1,7 @@
 # Linux-Foundation-Coupons - As of December 2024
 🎉 Linux Foundation Training & Certification Discounts
 
-
+---
 ### [60% OFF] Linux Foundation CYBER DEAL - OFFER ENDS DEC 11
 
 60% off on KUBESTRONAUT bundle
