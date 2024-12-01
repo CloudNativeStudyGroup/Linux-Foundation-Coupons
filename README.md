@@ -9,7 +9,7 @@
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
 - [x] Locate the certification bundle using the certification catalog
-- [x] Apply the coupon CYBER24BUNDLE
+- [x] Apply the coupon CYBER24BUNDLEFLEX
 
 ---
 ### [50% OFF] Linux Foundation CYBER DEAL - OFFER ENDS DEC 11
@@ -19,7 +19,7 @@
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
 - [x] Locate the certification/course using the certification catalog
-- [x] Apply the coupon CYBER24CC
+- [x] Apply the coupon CYBER24CCFLEX
 
 ---
 
