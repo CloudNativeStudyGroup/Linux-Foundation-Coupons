@@ -7,9 +7,12 @@
 60% off any certification bundle
 
 #### Steps to redeem:
-- [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
-- [x] Locate the certification bundle using the certification catalog
-- [x] Apply the coupon CYBER24BUNDLEFLEX
+Apply the coupon CYBER24BUNDLEFLEX for any of the following certification bundle!
+- [x] Kubestronaut - [https://k5x.kubeflex.io](https://k5x.kubeflex.io)
+- [x] KCSA + CKS - [https://ksec.kubeflex.io](https://ksec.kubeflex.io)
+- [x] KCSA + KCNA - [https://kcxa.kubeflex.io](https://kcxa.kubeflex.io)
+- [x] CKA + CKAD - [https://ckax.kubeflex.io](https://ckax.kubeflex.io)
+- [x] Other bundles - [https://cm.kubeflex.io](https://cm.kubeflex.io)
 
 ---
 ### [50% OFF] Linux Foundation CYBER DEAL - OFFER ENDS DEC 11
@@ -17,9 +20,27 @@
 50% off any individual certifications/courses
 
 #### Steps to redeem:
-- [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
-- [x] Locate the certification/course using the certification catalog
-- [x] Apply the coupon CYBER24CCFLEX
+Apply the coupon CYBER24CCFLEX for any of the following certification!
+
+👉 [Certified Kubernetes Administrator (CKA)](https://cka.kubeflex.io)
+
+👉 [Certified Kubernetes Application Developer (CKAD)](https://ckad.kubeflex.io)
+
+👉 [Prometheus Certified Associate (PCA)](https://pca.kubeflex.io)
+
+👉 [Certified Kubernetes Security Specialist (CKS)](https://cks.kubeflex.io)
+
+👉 [Istio Certified Associate (ICA)](https://ica.kubeflex.io)
+
+👉 [Kubernetes and Cloud Native Associate (KCNA)](https://kcna.kubeflex.io)
+
+👉 [Kubernetes and Cloud Native Security Associate (KCSA)](https://kcsa.kubeflex.io)
+
+👉 [Certified Argo Project Associate (CAPA)](https://capa.kubeflex.io)
+
+👉 [Certified GitOps Associate (CGOA)](https://cgoa.kubeflex.io)
+
+👉 [Cilium Certified Associate (CCA)](https://cca.kubeflex.io)
 
 ---
 
