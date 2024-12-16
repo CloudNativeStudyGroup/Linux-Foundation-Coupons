@@ -2,7 +2,13 @@
 🎉 Linux Foundation Training & Certification Discounts
 
 ---
+### [60% off] KubeCon + CloudNativeCon India 2024 – Offer Ends December 20, 2024
 
+#### Steps to redeem:
+- [x] Click [here](https://shareasale.com/r.cfm?b=734319&u=4386404&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Fkubecon%2Dindia%2D2024%2F&afftrack=) to go to Linux Foundation KubeCon + CloudNativeCon India 2024 offers page
+- [x] Select the certification/bundle and apply the coupon provided in each section
+
+---
 ### [30% OFF] Linux Foundation Exclusive Discount
 
 Follow these steps to get 30% off **ANY** Linux Foundation certification, certification bundle or training.
@@ -39,7 +45,7 @@ Use the coupon **KUBEFLEX30** at checkout to get 30% off
 
 - [x] [Cilium Certified Associate (CCA)](https://cca.kubeflex.io)
 
-
+---
 ### Direct Links to Popular Bundles
 
 Apply the coupon CYBER24BUNDLEFLEX for any of the following certification bundle!
