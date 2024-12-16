@@ -2,47 +2,6 @@
 🎉 Linux Foundation Training & Certification Discounts
 
 ---
-### [60% OFF] Linux Foundation CYBER DEAL - OFFER ENDS DEC 11
-
-60% off any certification bundle
-
-#### Steps to redeem:
-Apply the coupon CYBER24BUNDLEFLEX for any of the following certification bundle!
-- [x] Kubestronaut - [https://k5x.kubeflex.io](https://k5x.kubeflex.io)
-- [x] KCSA + CKS - [https://ksec.kubeflex.io](https://ksec.kubeflex.io)
-- [x] KCSA + KCNA - [https://kcxa.kubeflex.io](https://kcxa.kubeflex.io)
-- [x] CKA + CKAD - [https://ckax.kubeflex.io](https://ckax.kubeflex.io)
-- [x] Other bundles - [https://cm.kubeflex.io](https://cm.kubeflex.io)
-
----
-### [50% OFF] Linux Foundation CYBER DEAL - OFFER ENDS DEC 11
-
-50% off any individual certifications/courses
-
-#### Steps to redeem:
-Apply the coupon CYBER24CCFLEX for any of the following certification!
-
-👉 [Certified Kubernetes Administrator (CKA)](https://cka.kubeflex.io)
-
-👉 [Certified Kubernetes Application Developer (CKAD)](https://ckad.kubeflex.io)
-
-👉 [Prometheus Certified Associate (PCA)](https://pca.kubeflex.io)
-
-👉 [Certified Kubernetes Security Specialist (CKS)](https://cks.kubeflex.io)
-
-👉 [Istio Certified Associate (ICA)](https://ica.kubeflex.io)
-
-👉 [Kubernetes and Cloud Native Associate (KCNA)](https://kcna.kubeflex.io)
-
-👉 [Kubernetes and Cloud Native Security Associate (KCSA)](https://kcsa.kubeflex.io)
-
-👉 [Certified Argo Project Associate (CAPA)](https://capa.kubeflex.io)
-
-👉 [Certified GitOps Associate (CGOA)](https://cgoa.kubeflex.io)
-
-👉 [Cilium Certified Associate (CCA)](https://cca.kubeflex.io)
-
----
 
 ### [30% OFF] Linux Foundation Exclusive Discount
 
@@ -56,36 +15,45 @@ Follow these steps to get 30% off **ANY** Linux Foundation certification or trai
 ![Alt text](images/with-coupon-v2.png?raw=true "KUBEFLEX30 Coupon")
 
 ---
-### [30% OFF]  Direct links to certifications and bundles
+### Direct Links to Popular Certifications
 
-Use the coupon **KUBEFLEX30** at checkout
+Use the coupon **KUBEFLEX30** at checkout to get 30% off
 
-👉 [Certified Kubernetes Administrator (CKA)](https://cka.kubeflex.io)
+- [x] [Certified Kubernetes Administrator (CKA)](https://cka.kubeflex.io)
 
-👉 [Certified Kubernetes Application Developer (CKAD)](https://ckad.kubeflex.io)
+- [x] [Certified Kubernetes Application Developer (CKAD)](https://ckad.kubeflex.io)
 
-👉 [Prometheus Certified Associate (PCA)](https://pca.kubeflex.io)
+- [x] [Prometheus Certified Associate (PCA)](https://pca.kubeflex.io)
 
-👉 [Certified Kubernetes Security Specialist (CKS)](https://cks.kubeflex.io)
+- [x] [Certified Kubernetes Security Specialist (CKS)](https://cks.kubeflex.io)
 
-👉 [Istio Certified Associate (ICA)](https://ica.kubeflex.io)
+- [x] [Istio Certified Associate (ICA)](https://ica.kubeflex.io)
 
-👉 [Kubernetes and Cloud Native Associate (KCNA)](https://kcna.kubeflex.io)
+- [x] [Kubernetes and Cloud Native Associate (KCNA)](https://kcna.kubeflex.io)
 
-👉 [Kubernetes and Cloud Native Security Associate (KCSA)](https://kcsa.kubeflex.io)
+- [x] [Kubernetes and Cloud Native Security Associate (KCSA)](https://kcsa.kubeflex.io)
 
-👉 [Certified Argo Project Associate (CAPA)](https://capa.kubeflex.io)
+- [x] [Certified Argo Project Associate (CAPA)](https://capa.kubeflex.io)
 
-👉 [Certified GitOps Associate (CGOA)](https://cgoa.kubeflex.io)
+- [x] [Certified GitOps Associate (CGOA)](https://cgoa.kubeflex.io)
 
-👉 [Cilium Certified Associate (CCA)](https://cca.kubeflex.io)
+- [x] [Cilium Certified Associate (CCA)](https://cca.kubeflex.io)
 
+
+### Direct Links to Popular Bundles
+
+Apply the coupon CYBER24BUNDLEFLEX for any of the following certification bundle!
+- [x] [Kubestronaut Bundle](https://k5x.kubeflex.io)
+- [x] [KCSA + CKS](https://ksec.kubeflex.io)
+- [x] [KCSA + KCNA](https://kcxa.kubeflex.io)
+- [x] [CKA + CKAD](https://ckax.kubeflex.io)
 
 ---
-### Other Useful Repositories
+### Other Useful Resources
 
 1. [KodeKloud coupons](https://github.com/CloudNativeStudyGroup/KodeKloud-Coupons)
 2. [Free courses where you can earn free Credly digital badges](https://github.com/CloudNativeStudyGroup/Free-Credly-Badges)
+3. Join [certdirectory.io](https://certdirectory.io) to showcase your achievements! 
 
 
 ## Join our community
