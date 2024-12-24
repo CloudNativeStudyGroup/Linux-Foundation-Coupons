@@ -41,7 +41,7 @@ Use the coupon **KUBEFLEX30** at checkout to get 30% off
 ---
 ### Direct Links to Popular Bundles
 
-Apply the coupon CYBER24BUNDLEFLEX for any of the following certification bundle!
+Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
 - [x] [Kubestronaut Bundle](https://k5x.kubeflex.io)
 - [x] [KCSA + CKS](https://ksec.kubeflex.io)
 - [x] [KCSA + KCNA](https://kcxa.kubeflex.io)
