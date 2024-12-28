@@ -38,6 +38,10 @@ Use the coupon **KUBEFLEX30** at checkout to get 30% off
 
 - [x] [Cilium Certified Associate (CCA)](https://cca.kubeflex.io)
 
+- [x] [Certified Backstage Associate (CBA)](https://cba.kubeflex.io)
+
+- [x] [OpenTelemetry Certified Associate (OTCA)](https://otca.kubeflex.io)
+
 ---
 ### Direct Links to Popular Bundles
 
