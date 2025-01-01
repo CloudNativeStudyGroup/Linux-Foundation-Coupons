@@ -1,4 +1,4 @@
-# Linux-Foundation-Coupons - As of December 2024
+# Linux-Foundation-Coupons - As of January 2025
 🎉 Linux Foundation Training & Certification Discounts
 
 ---
