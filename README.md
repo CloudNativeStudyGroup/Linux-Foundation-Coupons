@@ -41,6 +41,8 @@ Use the coupon **KUBEFLEX30** at checkout to get 30% off
 - [x] [Certified Backstage Associate (CBA)](https://cba.kubeflex.io)
 
 - [x] [OpenTelemetry Certified Associate (OTCA)](https://otca.kubeflex.io)
+      
+- [x] [Kyverno Certified Associate (KCA)](https://kca.kubeflex.io)
 
 ---
 ### Direct Links to Popular Bundles
