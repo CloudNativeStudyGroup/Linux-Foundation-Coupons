@@ -7,7 +7,7 @@
 Follow these steps to get up to 40% off **ANY** Linux Foundation certification, certification bundle or training.
 
 #### Steps to redeem:
-- [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
+- [x] Visit [Linux Foundation Certificaton Catalog](https://lf.kubeflex.io)
 - [x] Locate the certification/training you wish to purchase
 - [x] Apply the coupon **JANUARY25FLEX**
 
@@ -17,7 +17,7 @@ Follow these steps to get up to 40% off **ANY** Linux Foundation certification, 
 Follow these steps to get 30% off **ANY** Linux Foundation certification, certification bundle or training.
 
 #### Steps to redeem:
-- [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
+- [x] Visit [Linux Foundation Certificaton Catalog](https://lf.kubeflex.io)
 - [x] Locate the certification/training you wish to purchase
 - [x] Apply the coupon **KUBEFLEX30**
 
