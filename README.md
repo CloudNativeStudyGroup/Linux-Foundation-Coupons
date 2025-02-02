@@ -42,6 +42,8 @@ Use the coupon **KUBEFLEX30** at checkout to get 30% off
 - [x] [OpenTelemetry Certified Associate (OTCA)](https://otca.kubeflex.io)
       
 - [x] [Kyverno Certified Associate (KCA)](https://kca.kubeflex.io)
+      
+- [x] [Linux Foundation Certified System Administrator (LFCS](https://lfcs.kubeflex.io) 
 
 ---
 ### Direct Links to Popular Bundles
