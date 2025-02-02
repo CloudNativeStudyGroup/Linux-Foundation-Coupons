@@ -1,16 +1,5 @@
-# Linux-Foundation-Coupons - As of January 2025
+# Linux-Foundation-Coupons - As of February 2025
 🎉 Linux Foundation Training & Certification Discounts
-
----
-### [Up to 40% OFF] Strive to Thrive in 2025 Sitewide Promotion [ Expires on 28th of Jan ]
-
-Follow these steps to get up to 40% off **ANY** Linux Foundation certification, certification bundle or training.
-
-#### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://lf.kubeflex.io)
-- [x] Locate the certification/training you wish to purchase
-- [x] Apply the coupon **JANUARY25FLEX**
-
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
