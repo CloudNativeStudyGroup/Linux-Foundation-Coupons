@@ -13,6 +13,21 @@ Individual, KubeCon + CoudNativeCon | $679 | $475 | $204 | KUBEFLEX_30
 Corporate, KubeCon + CloudNativeCon | $1499 | $1049 | $450 | KUBEFLEX_30 
 
 ---
+### [Up to 70% OFF] Linux Foundation February Promotion [ Valid till 25th of Jan ]
+
+Apply the coupon **FEB25BUNFLEX** at checkout. 
+
+- [x] [Kubestronaut Bundle](https://k5x.kubeflex.io)
+- [x] [KCSA + CKS](https://ksec.kubeflex.io)
+- [x] [KCSA + KCNA](https://kcxa.kubeflex.io)
+- [x] [CKA + CKAD](https://ckax.kubeflex.io)
+- [x] [LFCS + KCNA](https://training.linuxfoundation.org/certification/linux-foundation-certified-it-associate-lfca-kubernetes-and-cloud-native-associate-kcna-exam-bundle/)
+- [x] [CKA + CKAD + CKS](https://trainingportal.linuxfoundation.org/orders?cart=%5B%7B%22purchasableId%22%3A%228e40dcae-94e1-49a8-9e8c-51d9dca54ce8%22%2C%22purchasableType%22%3A%22discountGroup%22%2C%22quantity%22%3A1%2C%22isBulkPurchase%22%3Afalse%2C%22priceInCents%22%3A109500%7D%5D)
+- [x] [CKA + CKS](https://trainingportal.linuxfoundation.org/orders?cart=%5B%7B%22purchasableId%22%3A%22361ca6b1-cd8d-4167-a15c-f14c632a2962%22%2C%22purchasableType%22%3A%22discountGroup%22%2C%22quantity%22%3A1%2C%22isBulkPurchase%22%3Afalse%2C%22priceInCents%22%3A72500%7D%5D)
+- [x] [KCNA + CKA](https://trainingportal.linuxfoundation.org/orders?cart=%5B%7B%22purchasableId%22%3A%222600f479-cf43-4341-b617-b580250ec0b7%22%2C%22purchasableType%22%3A%22discountGroup%22%2C%22quantity%22%3A1%2C%22isBulkPurchase%22%3Afalse%2C%22priceInCents%22%3A59500%7D%5D)
+
+
+---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
 Follow these steps to get 30% off **ANY** Linux Foundation certification, certification bundle or training.
