@@ -2,6 +2,17 @@
 🎉 Linux Foundation Training & Certification Discounts
 
 ---
+### Register Now for KubeCon + CloudNativeCon Europe 2025! April 1-4 in London!
+KubeCon + CloudNativeCon Europe 2025 in London is coming up quickly! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
+Register [here](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/).
+Type | Price | Discounted Price | Saving | Coupon 
+--- | --- | --- | --- |--- 
+Individual, All-Access | $1278 | $1022 | $256 | KUBEFLEX_20
+Corporate, All-Access | $2278 | $1822 | $456 | KUBEFLEX_20 
+Individual, KubeCon + CoudNativeCon | $899 | $719 | $180 | KUBEFLEX_20 
+Corporate, KubeCon + CloudNativeCon | $1899 | $1519 | $380 | KUBEFLEX_20 
+
+---
 ### [Up to 70% OFF] Linux Foundation February Promotion [ Valid till 25th of Jan ]
 
 Apply the coupon **FEB25BUNFLEX** at checkout. 
