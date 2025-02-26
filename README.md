@@ -13,7 +13,7 @@ Individual, KubeCon + CoudNativeCon | $899 | $719 | $180 | KUBEFLEX_20
 Corporate, KubeCon + CloudNativeCon | $1899 | $1519 | $380 | KUBEFLEX_20 
 
 ---
-### [Up to 70% OFF] Linux Foundation February Promotion [ Valid till 25th of Jan ]
+### [Up to 70% OFF] Linux Foundation February Promotion [ Valid till 28th of Feb ]
 
 Apply the coupon **FEB25BUNFLEX** at checkout. 
 
