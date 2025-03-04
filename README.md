@@ -13,6 +13,15 @@ Individual, KubeCon + CoudNativeCon | $899 | $719 | $180 | KUBEFLEX_20
 Corporate, KubeCon + CloudNativeCon | $1899 | $1519 | $380 | KUBEFLEX_20 
 
 ---
+### [30% OFF SITEWIDE] International Women's Day Promotion [ Expires on 7th of March ]
+
+Follow these steps to get 30% off **ANY** Linux Foundation certification, certification bundle or training.
+
+#### Steps to redeem:
+- [x] Navigate to the exam/traning using the direct links mentioned below. (Alternatively, you can browse LF certification catalog)
+- [x] Apply the coupon **IWD25FLEX**
+      
+---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
 Follow these steps to get 30% off **ANY** Linux Foundation certification, certification bundle or training.
