@@ -29,42 +29,42 @@ Follow these steps to get 30% off **ANY** Linux Foundation certification, certif
 
 Use the coupon **KUBEFLEX30** at checkout to get 30% off
 
-- [x] [Certified Kubernetes Administrator (CKA)](https://cka.kubeflex.io)
+- [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
 
-- [x] [Certified Kubernetes Application Developer (CKAD)](https://ckad.kubeflex.io)
+- [x] [Certified Kubernetes Application Developer (CKAD)](https://tidd.ly/3DDuXXK)
 
-- [x] [Prometheus Certified Associate (PCA)](https://pca.kubeflex.io)
+- [x] [Prometheus Certified Associate (PCA)](https://tidd.ly/426M1i0)
 
-- [x] [Certified Kubernetes Security Specialist (CKS)](https://cks.kubeflex.io)
+- [x] [Certified Kubernetes Security Specialist (CKS)](https://tidd.ly/4iuILmo)
 
-- [x] [Istio Certified Associate (ICA)](https://ica.kubeflex.io)
+- [x] [Istio Certified Associate (ICA)](https://tidd.ly/4isMzEG)
 
-- [x] [Kubernetes and Cloud Native Associate (KCNA)](https://kcna.kubeflex.io)
+- [x] [Kubernetes and Cloud Native Associate (KCNA)](https://tidd.ly/3R6IcDd)
 
-- [x] [Kubernetes and Cloud Native Security Associate (KCSA)](https://kcsa.kubeflex.io)
+- [x] [Kubernetes and Cloud Native Security Associate (KCSA)](https://tidd.ly/3R9ODWa)
 
-- [x] [Certified Argo Project Associate (CAPA)](https://capa.kubeflex.io)
+- [x] [Certified Argo Project Associate (CAPA)](https://tidd.ly/3R6IWrZ)
 
-- [x] [Certified GitOps Associate (CGOA)](https://cgoa.kubeflex.io)
+- [x] [Certified GitOps Associate (CGOA)](https://tidd.ly/3DGixye)
 
-- [x] [Cilium Certified Associate (CCA)](https://cca.kubeflex.io)
+- [x] [Cilium Certified Associate (CCA)](https://tidd.ly/422X77M)
 
-- [x] [Certified Backstage Associate (CBA)](https://cba.kubeflex.io)
+- [x] [Certified Backstage Associate (CBA)](https://tidd.ly/4iu6NxX)
 
-- [x] [OpenTelemetry Certified Associate (OTCA)](https://otca.kubeflex.io)
+- [x] [OpenTelemetry Certified Associate (OTCA)](https://tidd.ly/4kRaAa8)
       
-- [x] [Kyverno Certified Associate (KCA)](https://kca.kubeflex.io)
+- [x] [Kyverno Certified Associate (KCA)](https://tidd.ly/3DGSBT6)
       
-- [x] [Linux Foundation Certified System Administrator (LFCS)](https://lfcs.kubeflex.io) 
+- [x] [Linux Foundation Certified System Administrator (LFCS)](https://tidd.ly/3FEvqcE) 
 
 ---
 ### Direct Links to Popular Bundles
 
 Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
-- [x] [Kubestronaut Bundle](https://k5x.kubeflex.io)
-- [x] [KCSA + CKS](https://ksec.kubeflex.io)
-- [x] [KCSA + KCNA](https://kcxa.kubeflex.io)
-- [x] [CKA + CKAD](https://ckax.kubeflex.io)
+- [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
+- [x] [KCSA + CKS](https://tidd.ly/3FsOhYh)
+- [x] [KCSA + KCNA](https://tidd.ly/4bP59V8)
+- [x] [CKA + CKAD](https://tidd.ly/424IQYb)
 
 ---
 ### Other Useful Resources
