@@ -18,7 +18,7 @@ Corporate, KubeCon + CloudNativeCon | $1899 | $1519 | $380 | KUBEFLEX_20
 Follow these steps to get 30% off **ANY** Linux Foundation certification, certification bundle or training.
 
 #### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://lf.kubeflex.io)
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D)
 - [x] Locate the certification/training you wish to purchase
 - [x] Apply the coupon **KUBEFLEX30**
 
