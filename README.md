@@ -75,5 +75,4 @@ Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
 
 Join [CertDirectory.io](https://certdirectory.io) to showcase your certifications!
 
-## Special note
-This repository contains affiliate links. When you make a purchase, you are supporting the future of the CertDirectory.io project. If you do make a purchase and support the project, please give us a shout on social media—we’d love to hear from those who support us!
+
