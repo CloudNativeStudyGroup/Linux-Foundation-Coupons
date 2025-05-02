@@ -2,6 +2,16 @@
 🎉 Linux Foundation Training & Certification Discounts
 
 ---
+
+### 40% off on ALL bundles! [ Limited Time ]
+
+Follow these steps to get **40%** off on Linux Foundation certification bundles!
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Bundle Catalog](https://tidd.ly/4d3CTyK) 
+- [x] Apply the coupon mentioned in the above webpage at checkout
+
+---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
 Follow these steps to get **30%** off **ANY** Linux Foundation certification, certification bundle or training.
