@@ -77,6 +77,8 @@ Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
 - [x] [CKA + CKAD](https://tidd.ly/424IQYb)
 - [x] [Golden Kubestronaut](https://tidd.ly/4ijaE09)
 - [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
+- [x] [CKA + CKS](https://tidd.ly/4hwPQla)
+- [x] [CKA + KCNA](https://tidd.ly/3DHQKgO)
 
 ---
 ### Other Useful Resource
