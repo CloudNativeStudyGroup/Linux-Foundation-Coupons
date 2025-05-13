@@ -39,31 +39,18 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 
 
 - [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
-
 - [x] [Certified Kubernetes Application Developer (CKAD)](https://tidd.ly/3DDuXXK)
-
 - [x] [Prometheus Certified Associate (PCA)](https://tidd.ly/426M1i0)
-
 - [x] [Certified Kubernetes Security Specialist (CKS)](https://tidd.ly/4iuILmo)
-
 - [x] [Istio Certified Associate (ICA)](https://tidd.ly/4isMzEG)
-
 - [x] [Kubernetes and Cloud Native Associate (KCNA)](https://tidd.ly/3R6IcDd)
-
 - [x] [Kubernetes and Cloud Native Security Associate (KCSA)](https://tidd.ly/3R9ODWa)
-
 - [x] [Certified Argo Project Associate (CAPA)](https://tidd.ly/3R6IWrZ)
-
 - [x] [Certified GitOps Associate (CGOA)](https://tidd.ly/3DGixye)
-
 - [x] [Cilium Certified Associate (CCA)](https://tidd.ly/422X77M)
-
 - [x] [Certified Backstage Associate (CBA)](https://tidd.ly/4iu6NxX)
-
 - [x] [OpenTelemetry Certified Associate (OTCA)](https://tidd.ly/4kRaAa8)
-      
 - [x] [Kyverno Certified Associate (KCA)](https://tidd.ly/3DGSBT6)
-      
 - [x] [Linux Foundation Certified System Administrator (LFCS)](https://tidd.ly/3FEvqcE) 
 
 ---
