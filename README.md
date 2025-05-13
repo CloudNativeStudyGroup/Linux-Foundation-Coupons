@@ -79,10 +79,10 @@ Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
 - [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
 - [x] [CKA + CKS](https://tidd.ly/4hwPQla)
 - [x] [CKA + KCNA](https://tidd.ly/3DHQKgO)
-- [x] [ICA+LFS245](https://tidd.ly/3XMREiY)  
-- [x] [CAPA+LFS256](https://tidd.ly/3FtPsGU)  
-- [x] [LFCA+KCNA](https://tidd.ly/3XPeHJY)  
-- [x] [LFCA+LFS200](https://tidd.ly/3Dvg3Tr)  
+- [x] [ICA + LFS245](https://tidd.ly/3XMREiY)  
+- [x] [CAPA + LFS256](https://tidd.ly/3FtPsGU)  
+- [x] [LFCA + KCNA](https://tidd.ly/3XPeHJY)  
+- [x] [LFCA + LFS200](https://tidd.ly/3Dvg3Tr)  
 ---
 ### Other Useful Resource
 
