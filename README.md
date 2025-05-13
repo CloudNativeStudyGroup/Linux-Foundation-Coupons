@@ -37,7 +37,6 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 ---
 ### Direct Links to Popular Certifications
 
-Use the coupon **KUBEFLEX30** at checkout to get 30% off
 
 - [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
 
@@ -70,7 +69,6 @@ Use the coupon **KUBEFLEX30** at checkout to get 30% off
 ---
 ### Direct Links to Popular Bundles
 
-Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
 - [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
 - [x] [KCSA + CKS](https://tidd.ly/3FsOhYh)
 - [x] [KCSA + KCNA](https://tidd.ly/4bP59V8)
