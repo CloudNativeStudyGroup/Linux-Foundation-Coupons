@@ -48,7 +48,8 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 - [x] [Certified Backstage Associate (CBA)](https://tidd.ly/4iu6NxX)
 - [x] [OpenTelemetry Certified Associate (OTCA)](https://tidd.ly/4kRaAa8)
 - [x] [Kyverno Certified Associate (KCA)](https://tidd.ly/3DGSBT6)
-- [x] [Linux Foundation Certified System Administrator (LFCS)](https://tidd.ly/3FEvqcE) 
+- [x] [Linux Foundation Certified System Administrator (LFCS)](https://tidd.ly/3FEvqcE)
+- [x] [Certified Cloud Native Platform Engineering Associate (CNPA)](https://tidd.ly/45PcpPN)
 
 ---
 ### Direct Links to Popular Bundles
@@ -67,7 +68,8 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 - [x] [ICA + LFS245](https://tidd.ly/3XMREiY)  
 - [x] [CAPA + LFS256](https://tidd.ly/3FtPsGU)  
 - [x] [LFCA + KCNA](https://tidd.ly/3XPeHJY)  
-- [x] [LFCA + LFS200](https://tidd.ly/3Dvg3Tr)  
+- [x] [LFCA + LFS200](https://tidd.ly/3Dvg3Tr)
+- [x] [PCA + LFS241](https://tidd.ly/3FTxKNq)  
 ---
 ### Other Useful Resource
 
