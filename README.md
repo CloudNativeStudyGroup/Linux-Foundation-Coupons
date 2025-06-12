@@ -10,15 +10,6 @@ Follow these steps to get **40%** off **ANY** Linux Foundation certification bun
 - [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification bundle you wish to purchase
 - [x] Apply the coupon **JUNE25PLUSCD**
 
----
-### [40% OFF] Linux Foundation Individual Certification Promotion [ 17th of June ]
-
-Follow these steps to get **40%** off **ANY** Linux Foundation certifications (Individual).
-
-#### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
-- [x] Apply the coupon **KCHK25**
-
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
