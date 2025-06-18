@@ -2,7 +2,7 @@
 🎉 Linux Foundation Training & Certification Discounts
 
 ---
-### [40% OFF] Linux Foundation June Bundle Promotion [ 17th of June ]
+### [40% OFF] Linux Foundation June Bundle Promotion [ 18th of June ]
 
 Follow these steps to get **40%** off **ANY** Linux Foundation certification bundles.
 
