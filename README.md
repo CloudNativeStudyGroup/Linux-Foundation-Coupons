@@ -15,7 +15,7 @@ Follow these steps to get **30%** off KubeCon NA 2025 passes - Valid for any tic
 ### How to Train Your SysAdmin Discount [ 28th of August ]
 
 The Linux Foundation has introduced a rather complicated discount structure, which you can view [here](https://tidd.ly/3INefqZ). 
-However, in a few specific scenarios, there may be better coupon options available. Please refer to [this spreadsheet](https://docs.google.com/spreadsheets/d/14IPXJyCEBJPsK7QiQN4c5JYYLJFt8G4lO-_exrY-IVU/edit?gid=0#gid=0) for the recommended coupons to use.
+However, in a few specific scenarios, there may be better coupon options available. Please refer to [this spreadsheet](https://docs.google.com/spreadsheets/d/14IPXJyCEBJPsK7QiQN4c5JYYLJFt8G4lO-_exrY-IVU/edit?gid=0#gid=0) for the recommended coupons to use. For any certification or bundle not mentioned in that document, you can use the generic coupon code KUBEFLEX30.
 
 
 ---
