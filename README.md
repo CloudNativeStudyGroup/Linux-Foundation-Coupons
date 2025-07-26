@@ -11,6 +11,12 @@ Follow these steps to get **30%** off KubeCon NA 2025 passes - Valid for any tic
 - [x] Apply the coupon **CERTDIRECTORY** at checkout.
 
 
+---
+### How to Train Your SysAdmin Discount [ 28th of August ]
+
+The Linux Foundation has introduced a rather complicated discount structure, which you can view [here](https://tidd.ly/3INefqZ). 
+However, in a few specific scenarios, there may be better coupon options available. Please refer to [this spreadsheet](https://docs.google.com/spreadsheets/d/14IPXJyCEBJPsK7QiQN4c5JYYLJFt8G4lO-_exrY-IVU/edit?gid=0#gid=0) for the recommended coupons to use.
+
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
