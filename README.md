@@ -11,7 +11,7 @@ Follow these steps to get **30%** off KubeCon NA 2025 passes - Valid for any tic
 - [x] Apply the coupon **CERTDIRECTORY** at checkout.
 
 ---
-### [35% OFF] Linux Foundation August Promo [ 19th of August ]
+### [35% OFF] Linux Foundation August Promo [ Expires on the 19th of August ]
 
 Follow these steps to get **35%** off **ANY** Linux Foundation certification, certification bundle or training.
 
