@@ -18,9 +18,9 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 
 #### Steps to redeem:
 - [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
-- [x] Apply the coupon **KUBEFLEX30**
+- [x] Apply the coupon **GOLDEN30**
 
-![Alt text](images/with-coupon-v2.png?raw=true "KUBEFLEX30 Coupon")
+![Alt text](images/with-coupon-v2.png?raw=true "GOLDEN30 Coupon")
 
 ---
 ### Direct Links to Popular Certifications
