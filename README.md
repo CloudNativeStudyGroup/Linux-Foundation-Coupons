@@ -14,7 +14,7 @@ Follow these steps to get **20%** off KubeCon NA 2025 passes - Valid for any tic
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
-Follow these steps to get **KUBEFLEX30%** off **ANY** Linux Foundation certification, certification bundle or training.
+Follow these steps to get **KUBEFLEX30** off **ANY** Linux Foundation certification, certification bundle or training.
 
 #### Steps to redeem:
 - [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
