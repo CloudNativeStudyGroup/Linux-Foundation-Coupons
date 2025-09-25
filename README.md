@@ -13,7 +13,7 @@ Follow these steps to get **20%** off KubeCon NA 2025 passes - Valid for any tic
 ---
 ### [50% OFF] Linux Foundation September  Flash Promotion [ 28th of Sept ]
 
-Follow these steps to get **50%** off **ANY** Linux Foundation certification **bundle** or training.
+Follow these steps to get **50%** off **ANY** Linux Foundation **certification bundle**!
 
 #### Steps to redeem:
 - [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification bundle you wish to purchase
