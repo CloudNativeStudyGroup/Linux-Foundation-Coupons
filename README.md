@@ -11,6 +11,17 @@ Follow these steps to get **20%** off KubeCon NA 2025 passes - Valid for any tic
 - [x] Apply the coupon **CERTDIRECTORY20** at checkout.
 
 ---
+### [40% OFF] Linux Foundation Cybersecurity Promotion [ 21st of October ]
+
+Enjoy **40%** off on the following certifications with the coupon: OCT25CYBERCD
+
+
+- [x] [CKS + KCSA](https://tidd.ly/3FsOhYh)
+- [x] [CKS + CKA](https://tidd.ly/4hwPQla)
+- [x] [KCSA: https](//tidd.ly/3R9ODWa)
+- [x] (CKS](https://tidd.ly/4iuILmo)
+
+---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
 Follow these steps to get **30%** off **ANY** Linux Foundation certification, certification bundle or training.
