@@ -19,7 +19,7 @@ Enjoy **40%** off on the following certifications with the coupon: OCT25CYBERCD
 - [x] [CKS + KCSA](https://tidd.ly/3FsOhYh)
 - [x] [CKS + CKA](https://tidd.ly/4hwPQla)
 - [x] [KCSA: https](//tidd.ly/3R9ODWa)
-- [x] (CKS](https://tidd.ly/4iuILmo)
+- [x] [CKS](https://tidd.ly/4iuILmo)
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
