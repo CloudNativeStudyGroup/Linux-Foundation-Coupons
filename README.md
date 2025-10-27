@@ -10,6 +10,17 @@ Follow these steps to get **20%** off KubeCon NA 2025 passes - Valid for any tic
 - [x] Visit [KubeCon NA 2025 Registration page](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
 - [x] Apply the coupon **CERTDIRECTORY20** at checkout.
 
+
+---
+### [40% OFF] Linux Foundation Halloween Promotion [ Expires 31st of Oct ]
+
+Follow these steps to get **40%** off **ANY** Linux Foundation certification, certification bundle or training.
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
+- [x] Apply the coupon **SPOOKY40CD**
+
+
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
