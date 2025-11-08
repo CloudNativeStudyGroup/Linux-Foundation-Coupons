@@ -1,14 +1,25 @@
 # Linux-Foundation-Coupons - As of November 2025
-🎉 Linux Foundation Training & Certification Discounts
+🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Install this browser extension: https://certdirectory.io/extension
 
 ---
-### [30% OFF] KubeCon North America 2025
+### [40% OFF] Linux Foundation Exclusive Discount [ Expires 20th Nov ]
 
-Follow these steps to get **20%** off KubeCon NA 2025 passes - Valid for any ticket type!
+Follow these steps to get **40%** off **ANY** Linux Foundation certification, certification bundle or training.
 
 #### Steps to redeem:
-- [x] Visit [KubeCon NA 2025 Registration page](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
-- [x] Apply the coupon **CERTDIRECTORY20** at checkout.
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
+- [x] Apply the coupon **40KUBE25CD**
+
+
+---
+### [30% OFF] Linux Foundation Regular Discount [ Unlimited Validity ]
+
+Follow these steps to get **30%** off **ANY** Linux Foundation certification, certification bundle or training.
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
+- [x] Apply the coupon **KUBEFLEX30**
+
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
