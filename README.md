@@ -1,15 +1,6 @@
 # Linux-Foundation-Coupons - As of November 2025
 🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Install this browser extension: https://certdirectory.io/extension
 
----
-### [40% OFF] Linux Foundation Exclusive Discount [ Expires 20th Nov ]
-
-Follow these steps to get **40%** off **ANY** Linux Foundation certification, certification bundle or training.
-
-#### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
-- [x] Apply the coupon **40KUBE25CD**
-
 
 ---
 ### [30% OFF] Linux Foundation Regular Discount [ Unlimited Validity ]
