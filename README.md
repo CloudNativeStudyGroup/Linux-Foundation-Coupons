@@ -51,6 +51,7 @@ There are three coupon codes depending on the type of the certification/certific
 - [x] [Kyverno Certified Associate (KCA)](https://tidd.ly/3DGSBT6)
 - [x] [Linux Foundation Certified System Administrator (LFCS)](https://tidd.ly/3FEvqcE)
 - [x] [Certified Cloud Native Platform Engineering Associate (CNPA)](https://tidd.ly/45PcpPN)
+- [x] [Certified Cloud Native Platform Engineer (CNPE)](https://tidd.ly/3JHRXrC)
 
 
 ---
@@ -93,6 +94,7 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 - [x] [Kyverno Certified Associate (KCA)](https://tidd.ly/3DGSBT6)
 - [x] [Linux Foundation Certified System Administrator (LFCS)](https://tidd.ly/3FEvqcE)
 - [x] [Certified Cloud Native Platform Engineering Associate (CNPA)](https://tidd.ly/45PcpPN)
+- [x] [Certified Cloud Native Platform Engineer (CNPE)](https://tidd.ly/3JHRXrC)
 
 ---
 ### Direct Links to Popular Bundles
