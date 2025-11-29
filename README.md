@@ -5,7 +5,7 @@
 ---
 ### [65% OFF] Linux Foundation Cyber Monday [ Expires Dec 9 ]
 
-There are three coupon codes depending on the type of the certification/certification bundles. 
+There are three coupon codes depending on the type of the certification/certification bundle. 
 
 **Coupon code:** CW25K8BUNCD
 
