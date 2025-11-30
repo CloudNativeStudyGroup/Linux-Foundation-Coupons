@@ -1,4 +1,4 @@
-# Linux-Foundation-Coupons - As of November 2025
+# Linux-Foundation-Coupons - As of December 2025
 🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Install this browser extension: https://certdirectory.io/extension
 
 
