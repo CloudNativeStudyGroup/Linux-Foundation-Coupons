@@ -16,6 +16,15 @@ KubeCon + CloudNativeCon Europe is coming to Amsterdam, 23-26 March! Join the Cl
 
 
 ---
+### [50% OFF] Linux Foundation SITEWIDE Discount [ Valid for 2 days only ]
+
+Follow these steps to get **50%** off **ANY** Linux Foundation certification, certification bundle or training.
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
+- [x] Apply the coupon **JAN50CD**
+---
+
 ### [35% OFF] Linux Foundation SITEWIDE Discount [ Expires 27th of Jan ]
 
 Follow these steps to get **35%** off **ANY** Linux Foundation certification, certification bundle or training.
