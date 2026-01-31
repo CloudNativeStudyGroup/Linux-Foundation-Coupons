@@ -1,4 +1,4 @@
-# Linux-Foundation-Coupons - As of January 2026
+# Linux-Foundation-Coupons - As of February 2026
 🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Install this browser extension: https://certdirectory.io/extension
 
 ---
@@ -13,26 +13,6 @@ KubeCon + CloudNativeCon Europe is coming to Amsterdam, 23-26 March! Join the Cl
 | KubeCon Europe 2026 - Corporate - KubeCon + CloudNativeCon Only | **CERTDIRECTORY** | 30% | 1499.00 | 1049.00 |
 | KubeCon Europe 2026 - Individual - All Access Pass | **CERTDIRECTORY** | 30% | 978.00 | 684.00 |
 | KubeCon Europe 2026 - Corporate - All Access Pass | **CERTDIRECTORY** | 30% | 1798.00 | 1258.00 |
-
-
----
-### [50% OFF] Linux Foundation SITEWIDE Discount [ Valid for 2 days only ]
-
-Follow these steps to get **50%** off **ANY** Linux Foundation certification, certification bundle or training.
-
-#### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
-- [x] Apply the coupon **JAN50CD**
----
-
-### [35% OFF] Linux Foundation SITEWIDE Discount [ Expires 27th of Jan ]
-
-Follow these steps to get **35%** off **ANY** Linux Foundation certification, certification bundle or training.
-
-#### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
-- [x] Apply the coupon **SKILLSMIX26CD**
-
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
