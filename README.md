@@ -9,10 +9,10 @@ KubeCon + CloudNativeCon Europe is coming to Amsterdam, 23-26 March! Join the Cl
 
 | Event Type | Coupon Code | Discount | Original Price | Discounted Price |
 | :--- | :---: | :---: | :---: | :---: |
-| KubeCon Europe 2026 - Individual - KubeCon + CloudNativeCon Only | **CERTDIRECTORY** | 30% | 679.00 | 475.00 |
-| KubeCon Europe 2026 - Corporate - KubeCon + CloudNativeCon Only | **CERTDIRECTORY** | 30% | 1499.00 | 1049.00 |
-| KubeCon Europe 2026 - Individual - All Access Pass | **CERTDIRECTORY** | 30% | 978.00 | 684.00 |
-| KubeCon Europe 2026 - Corporate - All Access Pass | **CERTDIRECTORY** | 30% | 1798.00 | 1258.00 |
+| KubeCon Europe 2026 - Individual - KubeCon + CloudNativeCon Only | **CERTDIRECTORY20** | 20% | 1278.00 | 1022.00 |
+| KubeCon Europe 2026 - Corporate - KubeCon + CloudNativeCon Only | **CERTDIRECTORY20** | 20% | 1899.00 | 1519.00 |
+| KubeCon Europe 2026 - Individual - All Access Pass | **CERTDIRECTORY20** | 20% | 978.00 | 782.00 |
+| KubeCon Europe 2026 - Corporate - All Access Pass | **CERTDIRECTORY20** | 20% | 1798.00 | 1438.00 |
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
