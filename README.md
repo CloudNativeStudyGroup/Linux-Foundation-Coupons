@@ -76,7 +76,12 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 - [x] [CAPA + LFS256](https://tidd.ly/3FtPsGU)  
 - [x] [LFCA + KCNA](https://tidd.ly/3XPeHJY)  
 - [x] [LFCA + LFS200](https://tidd.ly/3Dvg3Tr)
-- [x] [PCA + LFS241](https://tidd.ly/3FTxKNq)  
+- [x] [PCA + LFS241](https://tidd.ly/3FTxKNq)
+- [x] [CKA + LFS258](https://tidd.ly/4lHm54P)
+- [x] [CKAD + LFD259](https://tidd.ly/4lEqYvF)
+- [x] [CKS + LFS260](https://tidd.ly/4t1wyL3)
+- [x] [LFCS + LFS207](https://tidd.ly/4sk84wl)
+
 ---
 ### Other Useful Resource
 
