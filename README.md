@@ -15,9 +15,9 @@ KubeCon + CloudNativeCon Europe is coming to Amsterdam, 23-26 March! Join the Cl
 | KubeCon Europe 2026 - Corporate - All Access Pass | **CERTDIRECTORY20** | 20% | 1798.00 | 1438.00 |
 
 ---
-### [Up to 40% OFF] Linux Foundation March Promotion [ Expires 18th of March ]
+### [Up to 50% OFF] Linux Foundation March Promotion [ Expires 24th of March ]
 
-1. Use the coupon **PI26BUNCD** for any Linux Foundation **bundle** – 40% OFF
+1. Use the coupon **R2KUBECD** for any Linux Foundation **bundle** – 50% OFF
 2. Use the coupon **PI26CD** for any individual certification or course – 35% OFF
 
 #### Steps to redeem:
