@@ -18,7 +18,7 @@ KubeCon + CloudNativeCon Europe is coming to Amsterdam, 23-26 March! Join the Cl
 ### [Up to 50% OFF] Linux Foundation March Promotion [ Expires 24th of March ]
 
 1. Use the coupon **R2KUBECD** for any Linux Foundation **bundle** – 50% OFF
-2. Use the coupon **PI26CD** for any individual certification or course – 35% OFF
+2. Use the coupon **GOLDEN30** for any individual certification or course – 30% OFF
 
 #### Steps to redeem:
 - [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
