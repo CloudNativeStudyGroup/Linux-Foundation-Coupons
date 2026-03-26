@@ -2,20 +2,6 @@
 🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
 ---
-KubeCon + CloudNativeCon Europe is coming to Amsterdam, 23-26 March! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing. Register [here](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/)
-
-
-
-
-| Event Type | Coupon Code | Discount | Original Price | Discounted Price |
-| :--- | :---: | :---: | :---: | :---: |
-| KubeCon Europe 2026 - Individual - KubeCon + CloudNativeCon Only | **CERTDIRECTORY20** | 20% | 1278.00 | 1022.00 |
-| KubeCon Europe 2026 - Corporate - KubeCon + CloudNativeCon Only | **CERTDIRECTORY20** | 20% | 1899.00 | 1519.00 |
-| KubeCon Europe 2026 - Individual - All Access Pass | **CERTDIRECTORY20** | 20% | 978.00 | 782.00 |
-| KubeCon Europe 2026 - Corporate - All Access Pass | **CERTDIRECTORY20** | 20% | 1798.00 | 1438.00 |
-
-
----
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
 Follow these steps to get **30%** off **ANY** Linux Foundation certification, certification bundle or training.
