@@ -3,18 +3,13 @@
 
 
 ---
-### [35% OFF] CKA, CKAD, CKS, KCNA, CKSA & Kubestronaut Bundle [ Expires 30 April ]
+### [35% OFF] 35% off Sidewide! [ Expires 22 April ]
 
-Follow these steps to get **35%** off **CKA, CKAD, CKS, KCNA, CKSA & Kubestronaut Bundle**.
+Follow these steps to get **35%** off any certification, bundle or a course.
 
 #### Steps to redeem:
-Use the direct link below and apply the coupon **35KUBECD** at checkout
-- [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
-- [x] [Certified Kubernetes Application Developer (CKAD)](https://tidd.ly/3DDuXXK)
-- [x] [Certified Kubernetes Security Specialist (CKS)](https://tidd.ly/4iuILmo)
-- [x] [Kubernetes and Cloud Native Associate (KCNA)](https://tidd.ly/3R6IcDd)
-- [x] [Kubernetes and Cloud Native Security Associate (KCSA)](https://tidd.ly/3R9ODWa)
-- [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
+- [x] Apply the coupon **EARTH26CD**
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
