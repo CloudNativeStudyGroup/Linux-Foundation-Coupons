@@ -2,7 +2,7 @@
 🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
 ---
-### [ Up to 65% OFF] Linux Foundation MEGA MAY Cyber Boost [ Expires 20th May ]
+### [ Up to 65% OFF] Linux Foundation MEGA MAY Cyber Boost [ Expires 24th May ]
 
 Use code **MM26K8BUNCD** to enjoy **50%** off Kubestronaut Bundles:
 - [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
