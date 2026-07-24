@@ -2,7 +2,7 @@
 🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
 
-### [Up to 40% OFF] Linux Foundation FIFA Promotion [ Expires 21st July ]
+### [Up to 40% OFF] Linux Foundation FIFA Promotion [ Expires 31st July ]
 
 Use code **JULY26BUNCD** to enjoy **40%** off Bundles:
 
