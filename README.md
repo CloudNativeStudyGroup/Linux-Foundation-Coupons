@@ -2,7 +2,7 @@
 🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
 
-## 🇨🇳 Featured Events
+## Featured Events
 
 
 | Event | Dates | Location | Pass Type | Original / Offer Price | Discount Code | Registration Link |
