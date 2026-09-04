@@ -1,4 +1,4 @@
-# Linux-Foundation-Coupons - As of August 2026
+# Linux-Foundation-Coupons - As of September 2026
 🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
 
@@ -7,10 +7,10 @@
 
 | Event | Dates | Location | Pass Type | Original / Offer Price | Discount Code | Registration Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Corporate | ~~$1,798 USD~~ **$1,259 USD** (30% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Individual | ~~$978 USD~~ **$685 USD** (30% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Corporate | ~~$1,499 USD~~ **$1,049 USD** (30% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Individual | ~~$679 USD~~ **$475 USD** (30% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
+| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Corporate | ~~$2,278 USD~~ **$1,822 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
+| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Individual | ~~$1,278 USD~~ **$1,022 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
+| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Corporate | ~~$1,899 USD~~ **$1,519 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
+| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Individual | ~~$899 USD~~ **$719 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
 | **KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conf** | Sept 7–9, 2026 | Shanghai | Corporate Pass | **¥1,410 RMB** (33% off) | `CERTDIRECTORY_C` | [Register Here](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
 | **KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conf** | Sept 7–9, 2026 | Shanghai | Individual Pass | **¥600 RMB** (14% off) | `CERTDIRECTORY` | [Register Here](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
 | **AGNTCon + MCPCon Japan 2026** | Sept 10–11, 2026 | Tokyo | Attendee – Standard | ~~¥60,000 JPY~~ **¥45,000 JPY** (25% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/agntcon-mcpcon-japan/register/) |
