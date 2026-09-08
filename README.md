@@ -11,12 +11,10 @@
 | **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Individual | ~~$1,278 USD~~ **$1,022 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
 | **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Corporate | ~~$1,899 USD~~ **$1,519 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
 | **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Individual | ~~$899 USD~~ **$719 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conf** | Sept 7–9, 2026 | Shanghai | Corporate Pass | **¥1,410 RMB** (33% off) | `CERTDIRECTORY_C` | [Register Here](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
-| **KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conf** | Sept 7–9, 2026 | Shanghai | Individual Pass | **¥600 RMB** (14% off) | `CERTDIRECTORY` | [Register Here](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
 | **AGNTCon + MCPCon Japan 2026** | Sept 10–11, 2026 | Tokyo | Attendee – Standard | ~~¥60,000 JPY~~ **¥45,000 JPY** (25% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/agntcon-mcpcon-japan/register/) |
 | **AGNTCon + MCPCon Europe 2026** | Sept 17–18, 2026 | Amsterdam | Attendee | ~~€795~~ **€375** (43% off) | `CERTDIRECTORY_50` | [Register Here](https://events.linuxfoundation.org/agntcon-mcpcon-europe/register/) |
 | **AGNTCon + MCPCon North America 2026** | Oct 22–23, 2026 | San Jose, California | Attendee | ~~$475 USD~~ **$380 USD** (20% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/register/) |
-| **AGNTCon + MCPCon China 2026** | Sept 6–7, 2026 | Shanghai | Standard Pass | **¥499 RMB** (15%+ off) | `CERTDIRECTORY` | [Register Here](https://www.lfopensource.cn/mcp-dev-summit-shanghai/) |
+| **PyTorch Conference North America 2026** | Oct 20–21, 2026 | San Jose | Attendee | ~~$999 USD~~ **$599.40 USD** (40% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/pytorch-conference-north-america/register/) |
 
 
 ---
