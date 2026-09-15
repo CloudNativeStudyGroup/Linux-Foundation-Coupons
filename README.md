@@ -11,14 +11,61 @@
 | **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Individual | ~~$1,278 USD~~ **$1,022 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
 | **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Corporate | ~~$1,899 USD~~ **$1,519 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
 | **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Individual | ~~$899 USD~~ **$719 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **AGNTCon + MCPCon Japan 2026** | Sept 10–11, 2026 | Tokyo | Attendee – Standard | ~~¥60,000 JPY~~ **¥45,000 JPY** (25% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/agntcon-mcpcon-japan/register/) |
 | **AGNTCon + MCPCon Europe 2026** | Sept 17–18, 2026 | Amsterdam | Attendee | ~~€795~~ **€375** (43% off) | `CERTDIRECTORY_50` | [Register Here](https://events.linuxfoundation.org/agntcon-mcpcon-europe/register/) |
 | **AGNTCon + MCPCon North America 2026** | Oct 22–23, 2026 | San Jose, California | Attendee | ~~$475 USD~~ **$380 USD** (20% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/register/) |
 | **PyTorch Conference North America 2026** | Oct 20–21, 2026 | San Jose | Attendee | ~~$999 USD~~ **$599.40 USD** (40% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/pytorch-conference-north-america/register/) |
 
 
 ---
+### [Up to 40% OFF] Linux Foundation September Promotion [ Expires 22nd Sept ]
+Use code **SEPT26BTS40CD** to enjoy **40%** off Bundles:
 
+- [x] [CKA + CKS + LFCS + 6 Courses](https://tidd.ly/3MMFzIe)
+- [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
+- [x] [Golden Kubestronaut](https://tidd.ly/4ijaE09)
+- [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
+- [x] [CKA to Kubestronaut upgrade](https://tidd.ly/4deE9Pz)
+- [x] [CKAD to Kubestronaut upgrade](https://tidd.ly/4j5O8bp)
+- [x] [KCSA + CKS](https://tidd.ly/3FsOhYh)
+- [x] [KCSA + KCNA](https://tidd.ly/4bP59V8)
+- [x] [CKA + CKAD](https://tidd.ly/424IQYb)
+- [x] [CKA + CKS](https://tidd.ly/4hwPQla)
+- [x] [CKA + KCNA](https://tidd.ly/3DHQKgO)
+- [x] [CKA + CKAD + CKS](https://tidd.ly/4j5MZR3)
+- [x] [ICA + LFS245](https://tidd.ly/3XMREiY)  
+- [x] [CAPA + LFS256](https://tidd.ly/3FtPsGU)  
+- [x] [LFCA + KCNA](https://tidd.ly/3XPeHJY)  
+- [x] [LFCA + LFS200](https://tidd.ly/3Dvg3Tr)
+- [x] [PCA + LFS241](https://tidd.ly/3FTxKNq)
+- [x] [CKA + LFS258](https://tidd.ly/4lHm54P)
+- [x] [CKAD + LFD259](https://tidd.ly/4lEqYvF)
+- [x] [CKS + LFS260](https://tidd.ly/4t1wyL3)
+- [x] [LFCS + LFS207](https://tidd.ly/4sk84wl)
+- [x] [CKA + CKAD + LFS258 + LFS259](https://tidd.ly/3RfgA25)
+- [x] [LFCA + LFCS + LFS200 + LFS207](https://tidd.ly/3RfeeQO)
+- [x] [CKA + CKS + LFS258 + LFS260](https://tidd.ly/4ddLMpR)
+- [x] [KCNA + CKA + LFS250 + LFS258](https://tidd.ly/4dlCd8B)
+- [x] [LFCA + KCNA + LFS200 + LFS250](https://tidd.ly/4tmTbJH)
+
+Use code **SEPT26BTS35CD** to enjoy **35%** off individual certs and courses:
+- [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
+- [x] [Certified Kubernetes Application Developer (CKAD)](https://tidd.ly/3DDuXXK)
+- [x] [Prometheus Certified Associate (PCA)](https://tidd.ly/426M1i0)
+- [x] [Certified Kubernetes Security Specialist (CKS)](https://tidd.ly/4iuILmo)
+- [x] [Istio Certified Associate (ICA)](https://tidd.ly/4isMzEG)
+- [x] [Kubernetes and Cloud Native Associate (KCNA)](https://tidd.ly/3R6IcDd)
+- [x] [Kubernetes and Cloud Native Security Associate (KCSA)](https://tidd.ly/3R9ODWa)
+- [x] [Certified Argo Project Associate (CAPA)](https://tidd.ly/3R6IWrZ)
+- [x] [Certified GitOps Associate (CGOA)](https://tidd.ly/3DGixye)
+- [x] [Cilium Certified Associate (CCA)](https://tidd.ly/422X77M)
+- [x] [Certified Backstage Associate (CBA)](https://tidd.ly/4iu6NxX)
+- [x] [OpenTelemetry Certified Associate (OTCA)](https://tidd.ly/4kRaAa8)
+- [x] [Kyverno Certified Associate (KCA)](https://tidd.ly/3DGSBT6)
+- [x] [Linux Foundation Certified System Administrator (LFCS)](https://tidd.ly/3FEvqcE)
+- [x] [Certified Cloud Native Platform Engineering Associate (CNPA)](https://tidd.ly/45PcpPN)
+- [x] [Certified Cloud Native Platform Engineer (CNPE)](https://tidd.ly/3JHRXrC)
+
+---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
 Follow these steps to get **30%** off **ANY** Linux Foundation certification, certification bundle or training.
