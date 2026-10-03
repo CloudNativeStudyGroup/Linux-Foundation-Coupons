@@ -67,6 +67,7 @@ Use code **OCTPRIME26CCCD** to enjoy **40%** off individual certs and courses:
 - [x] [Certified Cloud Native Platform Engineering Associate (CNPA)](https://tidd.ly/45PcpPN)
 - [x] [Certified Cloud Native Platform Engineer (CNPE)](https://tidd.ly/3JHRXrC)
 - [x] [Model Context Protocol Associate (MCPA)](https://tidd.ly/4gOF64E)
+- [x] [Linux Foundation Certified IT Associate (LFCA)](https://tidd.ly/47YNLge)
 
       
 
@@ -102,6 +103,7 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 - [x] [Certified Cloud Native Platform Engineering Associate (CNPA)](https://tidd.ly/45PcpPN)
 - [x] [Certified Cloud Native Platform Engineer (CNPE)](https://tidd.ly/3JHRXrC)
 - [x] [Model Context Protocol Associate (MCPA)](https://tidd.ly/4gOF64E)
+- [x] [Linux Foundation Certified IT Associate (LFCA)](https://tidd.ly/47YNLge)
 
 ---
 ### Direct Links to Popular Bundles
