@@ -43,6 +43,11 @@ Use code **OCTPRIME26BCD** to enjoy **50%** off Bundles:
 - [x] [CKAD + LFD259](https://tidd.ly/4lEqYvF)
 - [x] [CKS + LFS260](https://tidd.ly/4t1wyL3)
 - [x] [LFCS + LFS207](https://tidd.ly/4sk84wl)
+- [x] [CKA + CKAD + LFS258 + LFS259](https://tidd.ly/3RfgA25)
+- [x] [CKA + CKS + LFS258 + LFS260](https://tidd.ly/4ddLMpR)
+- [x] [KCNA + CKA + LFS250 + LFS258](https://tidd.ly/4dlCd8B)
+- [x] [LFCA + LFCS + LFS200 + LFS207](https://tidd.ly/3RfeeQO)
+- [x] [LFCA + KCNA + LFS200 + LFS250](https://tidd.ly/4tmTbJH)
 
 Use code **OCTPRIME26CCCD** to enjoy **40%** off individual certs and courses:
 - [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
