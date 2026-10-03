@@ -107,16 +107,16 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 ### Direct Links to Popular Bundles
 
 - [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
+- [x] [Golden Kubestronaut](https://tidd.ly/4ijaE09)
+- [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
+- [x] [CKA to Kubestronaut upgrade](https://tidd.ly/4deE9Pz)
+- [x] [CKAD to Kubestronaut upgrade](https://tidd.ly/4j5O8bp)
 - [x] [KCSA + CKS](https://tidd.ly/3FsOhYh)
 - [x] [KCSA + KCNA](https://tidd.ly/4bP59V8)
 - [x] [CKA + CKAD](https://tidd.ly/424IQYb)
 - [x] [CKA + CKS](https://tidd.ly/4hwPQla)
 - [x] [CKA + KCNA](https://tidd.ly/3DHQKgO)
 - [x] [CKA + CKAD + CKS](https://tidd.ly/4j5MZR3)
-- [x] [Golden Kubestronaut](https://tidd.ly/4ijaE09)
-- [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
-- [x] [CKA to Kubestronaut upgrade](https://tidd.ly/4deE9Pz)
-- [x] [CKAD to Kubestronaut upgrade](https://tidd.ly/4j5O8bp)
 - [x] [ICA + LFS245](https://tidd.ly/3XMREiY)  
 - [x] [CAPA + LFS256](https://tidd.ly/3FtPsGU)  
 - [x] [LFCA + KCNA](https://tidd.ly/3XPeHJY)  
@@ -126,6 +126,11 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 - [x] [CKAD + LFD259](https://tidd.ly/4lEqYvF)
 - [x] [CKS + LFS260](https://tidd.ly/4t1wyL3)
 - [x] [LFCS + LFS207](https://tidd.ly/4sk84wl)
+- [x] [CKA + CKAD + LFS258 + LFS259](https://tidd.ly/3RfgA25)
+- [x] [CKA + CKS + LFS258 + LFS260](https://tidd.ly/4ddLMpR)
+- [x] [KCNA + CKA + LFS250 + LFS258](https://tidd.ly/4dlCd8B)
+- [x] [LFCA + LFCS + LFS200 + LFS207](https://tidd.ly/3RfeeQO)
+- [x] [LFCA + KCNA + LFS200 + LFS250](https://tidd.ly/4tmTbJH)
 
 ---
 ### Other Useful Resource
