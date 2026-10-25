@@ -14,45 +14,6 @@
 | **AGNTCon + MCPCon North America 2026** | Oct 22–23, 2026 | San Jose, California | Attendee | ~~$925 USD~~ **$475 USD** (50% off) | `CERTDIRECTORY_475` | [Register Here](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/register/) |
 | **PyTorch Conference North America 2026** | Oct 20–21, 2026 | San Jose | Attendee | ~~$999 USD~~ **$599.40 USD** (40% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/pytorch-conference-north-america/register/) |
 
-
----
-### [Up to 40% OFF] Linux Foundation October Promo [ Expires 23rd October ]
-
-Use code **OCT26CYBERCD** to enjoy **40%** off:
-- [x] [Certified Kubernetes Security Specialist (CKS)](https://tidd.ly/4iuILmo)
-- [x] [Kubernetes and Cloud Native Security Associate (KCSA)](https://tidd.ly/3R9ODWa)
-- [x] [KCSA + CKS](https://tidd.ly/3FsOhYh)
-
-Use code **OCT26NONCYBERCD** to enjoy **35%** off everything else:
-- [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
-- [x] [Certified Kubernetes Application Developer (CKAD)](https://tidd.ly/3DDuXXK)
-- [x] [Prometheus Certified Associate (PCA)](https://tidd.ly/426M1i0)
-- [x] [Istio Certified Associate (ICA)](https://tidd.ly/4isMzEG)
-- [x] [Kubernetes and Cloud Native Associate (KCNA)](https://tidd.ly/3R6IcDd)
-- [x] [Certified Argo Project Associate (CAPA)](https://tidd.ly/3R6IWrZ)
-- [x] [Certified GitOps Associate (CGOA)](https://tidd.ly/3DGixye)
-- [x] [Cilium Certified Associate (CCA)](https://tidd.ly/422X77M)
-- [x] [Certified Backstage Associate (CBA)](https://tidd.ly/4iu6NxX)
-- [x] [OpenTelemetry Certified Associate (OTCA)](https://tidd.ly/4kRaAa8)
-- [x] [Kyverno Certified Associate (KCA)](https://tidd.ly/3DGSBT6)
-- [x] [Linux Foundation Certified System Administrator (LFCS)](https://tidd.ly/3FEvqcE)
-- [x] [Certified Cloud Native Platform Engineering Associate (CNPA)](https://tidd.ly/45PcpPN)
-- [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
-- [x] [KCSA + KCNA](https://tidd.ly/4bP59V8)
-- [x] [CKA + CKAD](https://tidd.ly/424IQYb)
-- [x] [CKA + CKS](https://tidd.ly/4hwPQla)
-- [x] [CKA + KCNA](https://tidd.ly/3DHQKgO)
-- [x] [CKA + CKAD + CKS](https://tidd.ly/4j5MZR3)
-- [x] [Golden Kubestronaut](https://tidd.ly/4ijaE09)
-- [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
-- [x] [CKA to Kubestronaut upgrade](https://tidd.ly/4deE9Pz)
-- [x] [CKAD to Kubestronaut upgrade](https://tidd.ly/4j5O8bp)
-- [x] [ICA + LFS245](https://tidd.ly/3XMREiY)
-- [x] [CAPA + LFS256](https://tidd.ly/3FtPsGU)
-- [x] [LFCA + KCNA](https://tidd.ly/3XPeHJY)
-- [x] [LFCA + LFS200](https://tidd.ly/3Dvg3Tr)
-- [x] [PCA + LFS241](https://tidd.ly/3FTxKNq)
-
 ---
 
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
