@@ -11,11 +11,20 @@
 | **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Individual | ~~$1,278 USD~~ **$1,022 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
 | **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Corporate | ~~$1,899 USD~~ **$1,519 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
 | **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Individual | ~~$899 USD~~ **$719 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **AGNTCon + MCPCon North America 2026** | Oct 22–23, 2026 | San Jose, California | Attendee | ~~$925 USD~~ **$475 USD** (50% off) | `CERTDIRECTORY_475` | [Register Here](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/register/) |
-| **PyTorch Conference North America 2026** | Oct 20–21, 2026 | San Jose | Attendee | ~~$999 USD~~ **$599.40 USD** (40% off) | `CERTDIRECTORY` | [Register Here](https://events.linuxfoundation.org/pytorch-conference-north-america/register/) |
+
 
 ---
+### [35% OFF] Linux Foundation October Flash Sale [ Expires 29 Oct ]
 
+Follow these steps to get **35%** off **ANY** Linux Foundation certification, certification bundle or training.
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
+- [x] Apply the coupon **TREATS35CD**
+
+
+
+---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
 Follow these steps to get **30%** off **ANY** Linux Foundation certification, certification bundle or training.
