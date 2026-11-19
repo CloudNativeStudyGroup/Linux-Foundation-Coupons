@@ -2,17 +2,6 @@
 🎉 Linux Foundation Training & Certification Discounts. Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
 
-## Featured Events
-
-
-| Event | Dates | Location | Pass Type | Original / Offer Price | Discount Code | Registration Link |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Corporate | ~~$2,278 USD~~ **$1,822 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Individual | ~~$1,278 USD~~ **$1,022 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Corporate | ~~$1,899 USD~~ **$1,519 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Individual | ~~$899 USD~~ **$719 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-
-
 ---
 ### [40% OFF] Linux Foundation November Discount [ Expires 20th November ]
 
